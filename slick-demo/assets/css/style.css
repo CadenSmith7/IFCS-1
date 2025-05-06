@@ -34,3 +34,19 @@ img{
 {
     color:black;
 }
+
+.slide {
+    background-color: red;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .slide img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  .slide img {
+    width: 97%;
+  }
