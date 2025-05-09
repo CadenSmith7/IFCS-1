@@ -103,3 +103,12 @@ header.primary {
   #blog article.post:hover {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
   }
+body {
+  background-color: #b3daff;
+}
+.card, 
+article.post, 
+section, 
+.container {
+  background-color: transparent;
+}
