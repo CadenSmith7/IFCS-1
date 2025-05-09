@@ -70,3 +70,13 @@ footer.container {
 header.primary h2 {
   color: #ffffff;
 }
+.nasa-logo {
+  height: 100px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+header.primary {
+  position: relative;
+}
